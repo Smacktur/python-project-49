@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 /.idea
+/.vscode
 
 # Environments
 .env
@@ -13,9 +14,6 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
-# poetry
-poetry.lock
 
 # IPython
 profile_default/

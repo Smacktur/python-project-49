@@ -1,7 +1,7 @@
 def get_name():
     user_name = input()
     return user_name
-gitgit
+
 
 def greeting():
     print("Welcome to the Brain Games!")

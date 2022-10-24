@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "hexlet-code"
-version = "0.2.0"
+version = "0.2.1"
 description = "Brain Games"
 authors = ["Smacktur <Smacktur@gmail.com>"]
 license = "MIT"
@@ -12,6 +12,7 @@ packages = [
 [tool.poetry.scripts]
 brain-games = "games_brain.scripts.brain_games:main"
 brain-even = "games_brain.scripts.brain_even:main"
+brain-calc = "games_brain.scripts.brain_calc:main"
 
 
 [tool.poetry.dependencies]

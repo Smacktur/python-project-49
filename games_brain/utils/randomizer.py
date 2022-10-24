@@ -8,4 +8,4 @@ def get_rand_int(range_to: int):
 
 def get_rand_char(_list):
     ''''Returns a random item from the list'''
-    return random.choice(_list)
+    return choice(_list)
